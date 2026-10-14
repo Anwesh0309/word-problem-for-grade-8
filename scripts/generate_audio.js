@@ -17,7 +17,7 @@ const OUT_DIR = path.join(ROOT, 'public', 'assets', 'audio');
 
 const VOICE_ID = 'Xb7hH8MSUJpSbSDYk0k2';
 const MODEL_ID = 'eleven_multilingual_v2';
-const DEFAULT_API_KEY = 'sk_30ba992a24d6f19c565764c69ce76a192a3cc11e846daaa8';
+const DEFAULT_API_KEY = 'sk_b80b7bce4baab12f4b6434748ec2f9d59bafc8abbf531a4c';
 
 const VOICE_SETTINGS = {
   celebration:   { stability: 0.12, similarity_boost: 0.45, style: 0.75, use_speaker_boost: true },

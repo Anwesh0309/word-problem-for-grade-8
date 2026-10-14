@@ -11,7 +11,7 @@
    ========================================================================= */
 export const VOICE_ID = "Xb7hH8MSUJpSbSDYk0k2";
 export const MODEL_ID = "eleven_multilingual_v2";
-const API_KEY = (import.meta.env && import.meta.env.VITE_ELEVENLABS_API_KEY) || "sk_30ba992a24d6f19c565764c69ce76a192a3cc11e846daaa8";
+const API_KEY = (import.meta.env && import.meta.env.VITE_ELEVENLABS_API_KEY) || "sk_b80b7bce4baab12f4b6434748ec2f9d59bafc8abbf531a4c";
 
 export const STYLE_SETTINGS = {
   celebration: {
